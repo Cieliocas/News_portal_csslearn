@@ -1,27 +1,2 @@
-{
-    "workbench.colorCustomizations": {
-        "activityBar.foreground": "#ff0000"
-        "activityBar.background": "#24242400"
-        "titleBar.activeBackground": "#24242400"
-        "menu.selectionBackground": "#ff0000"
-        "sideBarTitle.foreground": "#ffd000"
-        "sideBar.background": "#24242400"
-        "sideBar.border": "#ff0000"
-        "titleBar.border": "#ff0000"
-        "editor.background": "#24242400"
-        "terminal.background": "#24242400"
-        "minimap.background": "#24242400"
-        "statusBar.background": "#24242400"
-        "statusBar.border": "#ff0000"
-        "menu.border": "#ff0000"
-        "titleBar.activeForeground": "#ffd900"
-        "statusBar.activeForeground": "#ffd900"
-        "sideBarSectionHeader.background": "#0000002a"
-        "sideBar.foreground": "#ffffff"
-        "tab.activeBorder": "#ff0000"
-        "editorGutter.background": "#00000000"
-        "editorGroupHeader.tabsBackground": "#24242400" 
-    }
-}
 
 
